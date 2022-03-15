@@ -51,7 +51,7 @@ GIFs created with ScreenToGif.
 
 ## Notes
 
-Describe any challenges encountered while doing the work
+None, although of course it was necessary to set up a new Wordpress site after deleting the wp-config.php file as a part of demonstrating vulnerability 2 (Authenticated Arbitrary File Deletion).
 
 ## License
 
