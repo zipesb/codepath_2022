@@ -8,7 +8,7 @@ Time spent: **6** hours spent in total
 
 ### 1. CVE-2016-7168 Authenticated Stored XSS Via Image File Name
   - [ ] Summary: 
-    - Vulnerability types: XSS (stored)
+    - Vulnerability types: XSS (stored), Social Engineering
     - Tested in version: 4.2
     - Fixed in version: 4.6.1
   - [ ] GIF Walkthrough: https://github.com/zipesb/codepath_2022/blob/unit7_wordpress/unit7_vuln1.gif
