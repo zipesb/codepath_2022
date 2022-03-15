@@ -17,7 +17,7 @@ Time spent: **6** hours spent in total
     - [wpscan page](https://wpscan.com/vulnerability/e84eaf3f-677a-465a-8f96-ea4cf074c980)
 ### 2. CVE-2018-12895 Authenticated Arbitrary File Deletion
   - [ ] Summary: 
-    - Vulnerability types: Improper Authentication (leads to arbitrary file deletion)
+    - Vulnerability types: Insecure Direct Object Reference, Improper Authentication (leads to arbitrary file deletion)
     - Tested in version: 4.2
     - Fixed in version: 4.2.21
   - [ ] GIF Walkthrough: https://github.com/zipesb/codepath_2022/blob/unit7_wordpress/unit7_vuln2.gif
