@@ -13,7 +13,7 @@ Time spent: **6** hours spent in total
     - Fixed in version: 4.6.1
   - [ ] GIF Walkthrough: https://github.com/zipesb/codepath_2022/blob/unit7_wordpress/unit7_vuln1.gif
   - [ ] Steps to recreate: Only tested in Linux. Use social engineering to provide image file to admin that contains malicious HTML/script in the image name and get admin to upload it to the wordpress site. When users view the page containing the uploaded attachment, the HTML/script stored in the image will execute. Possibly restricted to Linux and Mac OS as Windows disallows characters such as "<" in file names.
-  - [ ] (EXAMPLE malicious image file name): vuln\<img src=a onerror=alert(document.cookie)>.jpg
+  - [ ] (EXAMPLE malicious image file name): ```vuln\<img src=a onerror=alert(document.cookie)>.jpg```
   - [ ] Affected source code: https://github.com/WordPress/WordPress/commit/c9e60dab176635d4bfaaf431c0ea891e4726d6e0
     - [wpscan page](https://wpscan.com/vulnerability/e84eaf3f-677a-465a-8f96-ea4cf074c980)
 ### 2. (Required) Vulnerability Name or ID
