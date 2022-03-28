@@ -4,6 +4,8 @@ Time spent: **X** hours spent in total
 
 > Objective: Identify vulnerabilities in three different versions of the Globitek website: blue, green, and red.
 
+login info: pperson StaR!49*whiz
+
 The six possible exploits are:
 
 * Username Enumeration
