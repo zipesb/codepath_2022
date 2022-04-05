@@ -54,4 +54,4 @@ SHA1 Hash: *Run `sha1sum` on the file and record the hash here.*
 
 ## Notes
 
-Describe any challenges encountered while doing the assignment.
+None encountered.
